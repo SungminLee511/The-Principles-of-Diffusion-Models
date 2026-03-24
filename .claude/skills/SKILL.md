@@ -1,5 +1,7 @@
 # Diffusion Model Theory Skill
 
+> **MAINTENANCE:** This file and all sub-files in `.claude/skills/` are living documents. When you modify code in this project, update the relevant skill file in the **same commit**. Added a module? Update the file tree. Changed a function signature? Update the docs. New gotcha? Add it.
+
 **Trigger:** Use this skill when the user asks about foundational diffusion model theory — VAEs, DDPM, NCSN, score-based generative models, variational bounds, noise conditional score networks, or the SDE unification framework. Also activate when working on educational notebooks in this repository.
 
 **Project Root:** `/home/RESEARCH/The-Principles-of-Diffusion-Models/`
